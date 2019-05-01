@@ -1,5 +1,8 @@
 # caps2esc
 
+This is a fork of [caps2escape](https://gitlab.com/interception/linux/plugins/caps2esc) that
+changed the left ctrl and left alt keys.
+
 _Transforming the most useless key **ever** in the most useful one._
 <sub>_For vi/Vim/NeoVim addicts at least_.</sub>
 
@@ -52,15 +55,8 @@ the project's website.
 
 ## Installation
 
-I'm maintaining an Archlinux package on AUR:
-
-- <https://aur.archlinux.org/packages/interception-caps2esc>
-
-I don't use Ubuntu and recommend Archlinux instead, as it provides the AUR, so I
-don't maintain PPAs. For more information on Ubuntu/Debian installation check
-this:
-
-- <https://askubuntu.com/questions/979359/how-do-i-install-caps2esc>
+- Arch Linux : <https://aur.archlinux.org/packages/interception-caps2esc>
+- Debian: <https://askubuntu.com/questions/979359/how-do-i-install-caps2esc>
 
 ## Caveats
 
